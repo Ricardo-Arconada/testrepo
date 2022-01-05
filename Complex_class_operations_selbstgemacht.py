@@ -2,8 +2,10 @@
 """
 Created on Monday Dec  6 14:30 2021
 
-@author: Ricardo
+@author: Ricardo Arconada Silario
 """
+""" Task on Hackerrank.com, Input were 2 lines each with 2 numbers separated by spacebar which represented real and imaginary part, so 2 Complex Numbers, 
+the task was to make a Complex class and override +,-,*,/,// and operate them on thos 2 Numbers"""
 
 import math
 c = map(float, input().split())
